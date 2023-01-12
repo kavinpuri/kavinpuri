@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Kavin Puri</h1>
 <h3 align="center">A passionate data scientist and machine learning enthusiast from India</h3>
 
-- 🌱 I’m currently learning **Data Science & Machine Learning**
+- 🔭 I’m currently working on **Applied Data Science Lab | World Quant University**
+
+- 👯 I’m looking to collaborate on **Machine Learning and Data Science projects**
 
 - 📫 How to reach me **kavinpuri29@gmail.com**
 
