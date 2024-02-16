@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Kavin Puri</h1>
 <h3 align="center">A passionate data scientist and machine learning enthusiast from India</h3>
 
-- 🔭 I’m currently working on **Applied Data Science Lab | World Quant University**
+- 🔭 I’m currently working on **Project Trainee | CNH Industrial**
 
 - 👯 I’m looking to collaborate on **Machine Learning and Data Science projects**
 
 - 📫 How to reach me **kavinpuri29@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1S83cP3qSHzvcFORuOuH510s6-_htHo20/view?usp=share_link](https://drive.google.com/file/d/1S83cP3qSHzvcFORuOuH510s6-_htHo20/view?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1fG-9V6EOfuQrUtw6KGd9dVyeykoFc4mO/view?usp=sharing ]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
