@@ -2,7 +2,7 @@
 
 🚀 Data Scientist | Machine Learning Engineer | AI Enthusiast
 
-🎓 M.Tech. from IIT Kharagpur | B.Tech. from Punjab Agricultural University
+🎓 M.Tech. from IIT Kharagpur
 
 🔍 Experienced in data analytics, machine learning, and AI applications with practical exposure in diverse projects.
 
