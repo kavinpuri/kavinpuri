@@ -3,23 +3,17 @@
 <!--
 **kavinpuri/kavinpuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🚀 Data Scientist | Machine Learning Engineer | AI Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">Hi 👋, I'm Kavin Puri</h1>
-<h3 align="center">A passionate data scientist and machine learning enthusiast from Indian Institute of Technology Kharagpur</h3>
+🎓 M.Tech. from IIT Kharagpur | B.Tech. from Punjab Agricultural University
 
-- 🔭 I’m currently working at **CNH Industrial**
+🔍 Experienced in data analytics, machine learning, and AI applications with practical exposure in diverse projects.
 
-- 👯 I’m looking to collaborate on **Machine Learning and Data Science roles**
+📊 Proficient in Python for data analysis, visualization, and modeling. Skilled in SQL for data management.
+
+💡 Passionate about leveraging advanced analytical skills and innovative solutions to drive business growth and enhance operational efficiency.
+
+📈 Check out my projects below!
 
 - 📫 How to reach me **kavinpuri29@gmail.com**
 
