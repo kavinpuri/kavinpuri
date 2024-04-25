@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-**kavinpuri/kavinpuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 🚀 Data Scientist | Machine Learning Engineer | AI Enthusiast
 
 🎓 M.Tech. from IIT Kharagpur | B.Tech. from Punjab Agricultural University
@@ -14,7 +12,7 @@
 
 📈 Check out my projects below!
 
-- 📫 How to reach me **kavinpuri29@gmail.com**
+📫 How to reach me **kavinpuri29@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
